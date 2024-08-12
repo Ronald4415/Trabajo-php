@@ -1,0 +1,64 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body
+{
+	background-color: #a4ffe8;
+}
+
+.formulario_reg
+{
+	
+	width: 400px;
+	background-color: #DAEDEE;
+	padding: 30px;
+	margin: auto;
+	margin-top: 80px;
+	border: 1px solid #060606;
+	border-radius: 6px;
+	font-family: calibry;
+	color: #060505;
+	box-shadow: 7px 13px 37px #060606;
+}
+
+h4
+{
+	font-size: 26px;
+	margin: auto;
+	text-align: center;
+	font-family: impact;
+	
+	margin-bottom: 24px;
+}
+
+.controles
+{
+	width: 100%;
+	background-color:#C6D5E2;
+	padding: 8px;
+	border-radius: 5px;
+	margin-bottom: 16px;
+	border: 1px solid #060606;
+	font-family: calibry;
+	font-size: 17px;
+	color:#060606;
+}
+
+.boton
+{
+	width: 100%;
+	background-color:#9FFDFE;
+	padding: 6px;
+	border-radius: 6px;
+	font-size: 17px;
+	font-family: impact;
+
+
+}
+
+
+
